@@ -1,0 +1,145 @@
+Title,URL,Body,Upvotes,Time,Key
+Number of people with coronavirus infections may be dozens of times higher than the number of confirmed cases,https://www.reddit.com/r/COVID19/comments/g2czc4/number_of_people_with_coronavirus_infections_may/,,9387,4/16/2020 11:11,1
+At least 11% of tested blood donors in Stockholm had Covid19 antibody as of last week.,https://www.reddit.com/r/COVID19/comments/g4znbg/at_least_11_of_tested_blood_donors_in_stockholm/,,8906,4/20/2020 19:43,2
+Ending coronavirus lockdowns will be a dangerous process of trial and error,https://www.reddit.com/r/COVID19/comments/g1hpwu/ending_coronavirus_lockdowns_will_be_a_dangerous/,,6920,4/15/2020 0:46,3
+NYC Health: Only 1.8% of deaths in New York City were without an underlying condition,https://www.reddit.com/r/COVID19/comments/ftlqqx/nyc_health_only_18_of_deaths_in_new_york_city/,,6738,4/2/2020 12:48,4
+"Not wearing masks to protect against coronavirus is a ?€?big mistake,?€? top Chinese scientist says",https://www.reddit.com/r/COVID19/comments/fqdq90/not_wearing_masks_to_protect_against_coronavirus/,,6305,3/28/2020 4:59,5
+"In a paper from 2007, researches warned re-emergence of SARS-CoV like viruses: ""the culture of eating exotic mammals in southern China, is a time bomb. The possibility of the re-emergence of SARS should not be ignored.""",https://www.reddit.com/r/COVID19/comments/flnnz6/in_a_paper_from_2007_researches_warned/,,6005,3/20/2020 3:12,6
+Antibody tests suggest that coronavirus infections vastly exceed official counts,https://www.reddit.com/r/COVID19/comments/g4oj23/antibody_tests_suggest_that_coronavirus/,,5714,4/20/2020 7:45,7
+"Correcting under-reported COVID-19 case numbers: ""In the case of China, it is estimated that more than 700.000 cases of COVID-19 actually occurred instead of the confirmed 80,932 cases as of 3/13/2020.""",https://www.reddit.com/r/COVID19/comments/fm43z9/correcting_underreported_covid19_case_numbers_in/,,5674,3/20/2020 22:27,8
+"Amid Ongoing Covid-19 Pandemic, Governor Cuomo Announces Results of Completed Antibody Testing Study of 15,000 People Show 12.3 Percent of Population Has Covid-19 Antibodies",https://www.reddit.com/r/COVID19/comments/gcb7cx/amid_ongoing_covid19_pandemic_governor_cuomo/,,5192,5/2/2020 18:23,9
+Study Finds Nearly Everyone Who Recovers From COVID-19 Makes Coronavirus Antibodies,https://www.reddit.com/r/COVID19/comments/gffi2i/study_finds_nearly_everyone_who_recovers_from/,,4407,5/7/2020 21:21,10
+NYS/NYC antibody study updates,https://www.reddit.com/r/COVID19/comments/g6pqsr/nysnyc_antibody_study_updates/,,4091,4/23/2020 16:26,11
+"Amid Ongoing COVID-19 Pandemic, Governor Cuomo Announces Phase II Results of Antibody Testing Study Show 14.9% of Population Has COVID-19 Antibodies",https://www.reddit.com/r/COVID19/comments/g99qkr/amid_ongoing_covid19_pandemic_governor_cuomo/,,3704,4/27/2020 21:21,12
+New Zealand eliminates COVID-19,https://www.reddit.com/r/COVID19/comments/gfzvdx/new_zealand_eliminates_covid19/,,3617,5/8/2020 19:32,13
+World's 1st inactivated COVID-19 vaccine produces antibodies,https://www.reddit.com/r/COVID19/comments/hf6069/worlds_1st_inactivated_covid19_vaccine_produces/,,3384,6/24/2020 18:06,14
+Evidence that Vitamin D Supplementation Could Reduce Risk of Influenza and COVID-19 Infections and Deaths,https://www.reddit.com/r/COVID19/comments/fyblga/evidence_that_vitamin_d_supplementation_could/,,3275,4/10/2020 8:13,15
+Please consider downloading BOINC or folding@home to use your computers processor to help analyze COVID-19 research.,https://www.reddit.com/r/COVID19/comments/fd29vj/please_consider_downloading_boinc_or_foldinghome/,"Hello all.
+
+I believe this has been posted before on this sub, but I wanted to let many of the new members know about distributed computing and the potential it has to help research into COVID19.
+
+Here are some initial comments on how [Rosetta@home](https://www.ipd.uw.edu/2020/02/rosettas-role-in-fighting-coronavirus/) and [Folding@home](https://foldingathome.org/2020/02/27/foldinghome-takes-up-the-fight-against-covid-19-2019-ncov/) are helping to combat COVID19.
+
+Distributed computing is a fairly simple concept - a university, government research institution, etc takes a large chunk of data and breaks it up into small pieces.  The data is sent out to anyone who is a member of that research team, your computer does the number crunching, and the finished product is sent back to the institution to be added to the whole body of research.  Programs like Rosetta (using the BOINC client) or folding@home can run invisibly in the background, whenever you're not using the computer, or full time (I have three, soon to be four, computers running both clients full time, and a fourth I have running in the background).  The installation takes up a small amount of space, and you can easily control how much of your computer processing power you want dedicated to either program.
+
+To download Folding@Home and join the reddit team:
+
+* Visit this [link.](https://foldingathome.org/start-folding/) to download the FAH client
+
+* Open the FAHControl
+
+* Click ?€?configure?€?
+
+* Select the ?€?Identity?€? tab
+
+* Input **236269** under ?€?team number?€?
+
+To download Rosetta@Home and join the Reddit team: 
+
+* Visit this [link.](https://boinc.berkeley.edu)
+
+* Open the BOINC client
+
+* Select ?€?tools?€? in the menu bar
+
+* Select ?€?add task?€? and choose from the scrolling menu ?€?rosetta?€?.
+
+* Go to [this](https://boinc.bakerlab.org/rosetta/team.php) link, search for /r/covid19 (yes, I did name it after the COVID19 sub) and join the team.  Alternatively, it can also be found [here.]
+(https://boinc.bakerlab.org/rosetta/team_display.php?teamid=18781)
+
+If anyone has any questions, I would be happy to answer them.
+
+***We have a Twitter now! We will begin to ramp up Twitter operations to get the word out. Let's link up! @DistributedComp***
+
+**EDIT :** We have already hit 100 members in the Rosetta /r/covid19 team.  Thank you so much!  Looking forward to 200!!!
+
+**EDIT 6:** We are currently the 2nd ranked Rosetta team in the world.  We have 663 users.  We will need to multiply our current average daily score by six to reach the #1 spot.  I have no doubt that we will continue to grow our research base.  Please help us by spreading the word as much as you can.  Let's get everyone we know involved with this project.
+
+**EDIT 8:** We just passed 1000 users! (1015 to be exact.)  WOW!
+
+**EDIT 9:** We are earning 1,000,000 compute credits per day.  We now have 1192 members, up from 1015 at the last update just 10 hours ago.
+
+**EDIT 10:** I have just spoken to Dr. David Baker, the head of Baker Labs and rosetta at University of Washington.  Him and his team are planning a large scale rollout of SARS-CoV-2 specific work units in short order.  I will inform you all of news as soon as I get it!",3113,3/3/2020 21:56,16
+Your Mask Cuts Own Risk by 65 Percent,https://www.reddit.com/r/COVID19/comments/hplnp1/your_mask_cuts_own_risk_by_65_percent/,,3006,7/12/2020 1:06,17
+Human trials for Covid19 vaccine to begin on Thursday,https://www.reddit.com/r/COVID19/comments/g5lo2t/human_trials_for_covid19_vaccine_to_begin_on/,,2964,4/21/2020 19:19,18
+SARS-COV-2 was already spreading in France in late December 2019,https://www.reddit.com/r/COVID19/comments/gdg00l/sarscov2_was_already_spreading_in_france_in_late/,,2960,5/4/2020 17:32,19
+Low-cost dexamethasone reduces death by up to one third in hospitalised patients with severe respiratory complications of COVID-19,https://www.reddit.com/r/COVID19/comments/ha2p56/lowcost_dexamethasone_reduces_death_by_up_to_one/,,2944,6/16/2020 12:05,20
+New blood tests for antibodies could show true scale of coronavirus pandemic,https://www.reddit.com/r/COVID19/comments/fr4yg2/new_blood_tests_for_antibodies_could_show_true/,,2934,3/29/2020 12:09,21
+Oxford COVID-19 vaccine to begin phase II/III human trials,https://www.reddit.com/r/COVID19/comments/gofoxk/oxford_covid19_vaccine_to_begin_phase_iiiii_human/,,2757,5/22/2020 8:47,22
+T cells found in COVID-19 patients ?€?bode well?€? for long-term immunity,https://www.reddit.com/r/COVID19/comments/gk25s2/t_cells_found_in_covid19_patients_bode_well_for/,,2582,5/15/2020 4:10,23
+The FDA-approved Drug Ivermectin inhibits the replication of SARS-CoV-2 in vitro,https://www.reddit.com/r/COVID19/comments/fu6zi0/the_fdaapproved_drug_ivermectin_inhibits_the/,,2495,4/3/2020 11:47,24
+"A large COVID-19 outbreak in a high school 10 days after schools?€? reopening, Israel, May 2020",https://www.reddit.com/r/COVID19/comments/hwh4sg/a_large_covid19_outbreak_in_a_high_school_10_days/,,2457,7/23/2020 15:00,25
+Vitamin D levels appear to play role in COVID-19 mortality rates: Patients with severe deficiency are twice as likely to experience major complications,https://www.reddit.com/r/COVID19/comments/gitsbr/vitamin_d_levels_appear_to_play_role_in_covid19/,,2461,5/13/2020 6:51,26
+Vitamin D Insufficiency is Prevalent in Severe COVID-19,https://www.reddit.com/r/COVID19/comments/g9qtgu/vitamin_d_insufficiency_is_prevalent_in_severe/,,2369,4/28/2020 16:51,27
+How blood from coronavirus survivors might keep hospitals afloat - New York City researchers hope antibody-rich plasma can keep people out of intensive care.,https://www.reddit.com/r/COVID19/comments/fojcnf/how_blood_from_coronavirus_survivors_might_keep/,,2346,3/25/2020 3:29,28
+"From ?€?brain fog?€? to heart damage, COVID-19?€?s lingering problems alarm scientists",https://www.reddit.com/r/COVID19/comments/i1plof/from_brain_fog_to_heart_damage_covid19s_lingering/,,2333,8/1/2020 9:39,29
+U of T tests show Canadian-made mask deactivates 99% of SARS-CoV-2 virus,https://www.reddit.com/r/COVID19/comments/hs9tna/u_of_t_tests_show_canadianmade_mask_deactivates/,,2282,7/16/2020 13:40,30
+'Stealth Transmission' of COVID-19 Demands Widespread Mask Usage,https://www.reddit.com/r/COVID19/comments/frkfit/stealth_transmission_of_covid19_demands/,,2272,3/30/2020 4:44,31
+WHO launches global megatrial of the four most promising coronavirus treatments,https://www.reddit.com/r/COVID19/comments/fni2al/who_launches_global_megatrial_of_the_four_most/,,2228,3/23/2020 10:57,32
+"Coronavirus Could Be a 'Chimera' of Two Different Viruses, Genome Analysis Suggests",https://www.reddit.com/r/COVID19/comments/fppltz/coronavirus_could_be_a_chimera_of_two_different/,,2217,3/27/2020 3:13,33
+"?€?We were able to ascertain that patients who had not received Plaquenil (the drug containing hydroxychloroquine) were still contagious after six days, but of those that had received Plaquenil, after six days, only 25% were still contagious.?€?",https://www.reddit.com/r/COVID19/comments/fkizd0/we_were_able_to_ascertain_that_patients_who_had/,,2210,3/18/2020 3:33,34
+Body temperature screening to identify SARS-CoV-2 infected young adult travelers is ineffective,https://www.reddit.com/r/COVID19/comments/i43o7i/body_temperature_screening_to_identify_sarscov2/,,2194,8/5/2020 11:34,35
+First study of COVID-19 patients with diabetes shows that 10% die within seven days of hospital admission and two thirds are men,https://www.reddit.com/r/COVID19/comments/guibcg/first_study_of_covid19_patients_with_diabetes/,,2142,6/1/2020 10:39,36
+Face Masks Considerably Reduce COVID-19 Cases in Germany: A Synthetic Control Method Approach,https://www.reddit.com/r/COVID19/comments/gz0ds3/face_masks_considerably_reduce_covid19_cases_in/,,2136,6/8/2020 14:30,37
+Comorbidities in Italy up to march 20th. Nearly half of deceased had 3+ simultaneous disease,https://www.reddit.com/r/COVID19/comments/fn0dch/comorbidities_in_italy_up_to_march_20th_nearly/,,2125,3/22/2020 13:59,38
+University of Minnesota Trial Shows Hydroxychloroquine Has No Benefit Over Placebo in Preventing COVID-19 Following Exposure,https://www.reddit.com/r/COVID19/comments/gw283s/university_of_minnesota_trial_shows/,,2102,6/3/2020 20:44,39
+The subway seeded the massive coronavirus epidemic in new york city,https://www.reddit.com/r/COVID19/comments/g3jufj/the_subway_seeded_the_massive_coronavirus/,,2091,4/18/2020 7:53,40
+UChicago Medicine doctors see 'truly remarkable' success using ventilator alternatives to treat COVID-19,https://www.reddit.com/r/COVID19/comments/g7kr1o/uchicago_medicine_doctors_see_truly_remarkable/,,2083,4/25/2020 1:16,41
+"Covid-19: Two thirds of people contacted through tracing did not fully cooperate, pilot scheme finds",https://www.reddit.com/r/COVID19/comments/gt0992/covid19_two_thirds_of_people_contacted_through/,,2050,5/29/2020 20:07,42
+Men's blood contains greater concentrations of enzyme that helps COVID-19 infect cells,https://www.reddit.com/r/COVID19/comments/ghobbc/mens_blood_contains_greater_concentrations_of/,,2024,5/11/2020 14:15,43
+Greater social distancing could curb COVID-19 in 13 weeks,https://www.reddit.com/r/COVID19/comments/ft958n/greater_social_distancing_could_curb_covid19_in/,,2014,4/1/2020 21:32,44
+Vitamin D Sufficiency Reduced Risk for Morbidity and Mortality in COVID-19 Patients,https://www.reddit.com/r/COVID19/comments/hx2le9/vitamin_d_sufficiency_reduced_risk_for_morbidity/,,1939,7/24/2020 14:19,45
+COVID-19: On average only 6% of actual SARS-CoV-2 infections detected worldwide,https://www.reddit.com/r/COVID19/comments/fwinf2/covid19_on_average_only_6_of_actual_sarscov2/,,1927,4/7/2020 11:08,46
+Data from SARS outbreak showed that mask wearing is one of the significant factors in preventing the spread of the disease.,https://www.reddit.com/r/COVID19/comments/ffy8av/data_from_sars_outbreak_showed_that_mask_wearing/,,1918,3/9/2020 17:26,47
+Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs,https://www.reddit.com/r/COVID19/comments/g64ygs/saliva_is_more_sensitive_for_sarscov2_detection/,,1912,4/22/2020 17:05,48
+"Vitamin D determines severity in COVID-19 so government advice needs to change, experts urge",https://www.reddit.com/r/COVID19/comments/gq5hf5/vitamin_d_determines_severity_in_covid19_so/,,1901,5/25/2020 5:55,49
+"Relationship between the ABO Blood Group and the COVID-19 Susceptibility | medRxiv CONCLUSION People with blood group A have a significantly higher risk for acquiring COVID-19 compared with non-A blood groups, whereas blood group O has a significantly lower risk for the infection compared with non",https://www.reddit.com/r/COVID19/comments/fjzjpc/relationship_between_the_abo_blood_group_and_the/,,1855,3/17/2020 5:05,50
+"COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China",https://www.reddit.com/r/COVID19/comments/g3sgcf/covid19_outbreak_associated_with_air_conditioning/,,1860,4/18/2020 18:33,51
+Statement: Raoult's Hydroxychloroquine-COVID-19 study did not meet publishing society?€?s ?€?expected standard?€?,https://www.reddit.com/r/COVID19/comments/fw4rc8/statement_raoults_hydroxychloroquinecovid19_study/,,1835,4/6/2020 19:05,52
+"Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine (mRNA-1273) Against Novel Coronavirus | Moderna, Inc.",https://www.reddit.com/r/COVID19/comments/gm05dn/moderna_announces_positive_interim_phase_1_data/,,1822,5/18/2020 12:01,53
+ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques,https://www.reddit.com/r/COVID19/comments/gjoynw/chadox1_ncov19_vaccination_prevents_sarscov2/,,1819,5/14/2020 15:51,54
+Mouthwashes could reduce the risk of coronavirus transmission,https://www.reddit.com/r/COVID19/comments/i7qoei/mouthwashes_could_reduce_the_risk_of_coronavirus/,,1803,8/11/2020 12:11,55
+Vitamin D deficiency as a predictor of poor prognosis in patients with acute respiratory failure due to COVID-19,https://www.reddit.com/r/COVID19/comments/i742be/vitamin_d_deficiency_as_a_predictor_of_poor/,,1776,8/10/2020 12:39,56
+Post-COVID syndrome severely damages children?€?s hearts; ?€?immense inflammation?€? causing cardiac blood vessel dilation,https://www.reddit.com/r/COVID19/comments/imz8kn/postcovid_syndrome_severely_damages_childrens/,,1758,9/5/2020 10:59,57
+"In Cell Studies, Seaweed Extract Outperforms Remdesivir in Blocking COVID-19 Virus",https://www.reddit.com/r/COVID19/comments/hxlvr0/in_cell_studies_seaweed_extract_outperforms/,,1742,7/25/2020 12:24,58
+The Coronavirus Epidemic Curve is Already Flattening in New York City,https://www.reddit.com/r/COVID19/comments/fsl3l2/the_coronavirus_epidemic_curve_is_already/,,1733,3/31/2020 20:54,59
+Study in Primates Finds Acquired Immunity Prevents COVID-19 Reinfections,https://www.reddit.com/r/COVID19/comments/hr2ngp/study_in_primates_finds_acquired_immunity/,,1725,7/14/2020 14:36,60
+Reinfection could not occur in SARS-CoV-2 infected rhesus macaques,https://www.reddit.com/r/COVID19/comments/foz6s7/reinfection_could_not_occur_in_sarscov2_infected/,,1715,3/25/2020 21:59,61
+Blood clotting a significant cause of death in patients with COVID-19,https://www.reddit.com/r/COVID19/comments/gc2mi1/blood_clotting_a_significant_cause_of_death_in/,,1699,5/2/2020 7:46,62
+Placentas from COVID-19-positive pregnant women show injury,https://www.reddit.com/r/COVID19/comments/gp4sc8/placentas_from_covid19positive_pregnant_women/,,1693,5/23/2020 13:19,63
+Vitamin D Supplementation Could Possibly Improve Clinical Outcomes of Patients Infected with Coronavirus-2019 (COVID-2019),https://www.reddit.com/r/COVID19/comments/g7zl19/vitamin_d_supplementation_could_possibly_improve/,,1687,4/25/2020 19:23,64
+FDA approves the emergency use of chloroquine phosphate and hydroxychloroquine sulfate for treatment of COVID-19,https://www.reddit.com/r/COVID19/comments/fs860q/fda_approves_the_emergency_use_of_chloroquine/,,1668,3/31/2020 6:54,65
+NIAID statement: NIH Clinical Trial Shows Remdisivir Accelerates Recovery from Advanced COVID-19,https://www.reddit.com/r/COVID19/comments/gadkpt/niaid_statement_nih_clinical_trial_shows/,,1668,4/29/2020 17:26,66
+Loss of smell and taste in combination with other symptoms is a strong predictor of COVID-19 infection,https://www.reddit.com/r/COVID19/comments/fx24mg/loss_of_smell_and_taste_in_combination_with_other/,,1666,4/8/2020 7:39,67
+"The majority of male patients with COVID-19 present low testosterone levels on admission to Intensive Care in Hamburg, Germany: a retrospective cohort study.",https://www.reddit.com/r/COVID19/comments/giaum0/the_majority_of_male_patients_with_covid19/,,1634,5/12/2020 13:06,68
+Hundreds of people volunteer to be infected with coronavirus,https://www.reddit.com/r/COVID19/comments/g66f2t/hundreds_of_people_volunteer_to_be_infected_with/,,1633,4/22/2020 18:23,69
+Study Adds to Evidence That Odor-Sensing Cells in the Nose Are the Key Entry Point for SARS CoV-2,https://www.reddit.com/r/COVID19/comments/idwh94/study_adds_to_evidence_that_odorsensing_cells_in/,,1626,8/21/2020 13:13,70
+Airborne SARS-CoV-2 is Rapidly Inactivated by Simulated Sunlight,https://www.reddit.com/r/COVID19/comments/hc789d/airborne_sarscov2_is_rapidly_inactivated_by/,,1627,6/19/2020 19:36,71
+New study reveals Oxford coronavirus vaccine produces strong immune response,https://www.reddit.com/r/COVID19/comments/hum5sa/new_study_reveals_oxford_coronavirus_vaccine/,,1609,7/20/2020 14:25,72
+"LitCovid is a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus. It is the most comprehensive resource on the subject, providing a central access to 1200 (and growing) research articles in PubMed.",https://www.reddit.com/r/COVID19/comments/fktm7d/litcovid_is_a_curated_literature_hub_for_tracking/,,1600,3/18/2020 17:41,73
+"Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro (Cell discovery, Nature)",https://www.reddit.com/r/COVID19/comments/fmky16/hydroxychloroquine_a_less_toxic_derivative_of/,,1587,3/21/2020 19:46,74
+Vitamin D insufficiency as a potential culprit in critical COVID-19 patients,https://www.reddit.com/r/COVID19/comments/hzb69y/vitamin_d_insufficiency_as_a_potential_culprit_in/,,1574,7/28/2020 8:51,75
+"Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial",https://www.reddit.com/r/COVID19/comments/hulber/safety_and_immunogenicity_of_the_chadox1_ncov19/,,1571,7/20/2020 13:33,76
+Trial of Oxford COVID-19 vaccine starts in Brazil,https://www.reddit.com/r/COVID19/comments/hi33nb/trial_of_oxford_covid19_vaccine_starts_in_brazil/,,1567,6/29/2020 16:31,77
+No evidence of clinical efficacy of hydroxychloroquine in patients hospitalized for COVID-19 infection with oxygen requirement: results of a study using routinely collected data to emulate a target trial,https://www.reddit.com/r/COVID19/comments/g14ees/no_evidence_of_clinical_efficacy_of/,,1563,4/14/2020 12:11,78
+Two dogs tested positive of SARS-CoV-2. They showed no clinical symptoms,https://www.reddit.com/r/COVID19/comments/fuxlei/two_dogs_tested_positive_of_sarscov2_they_showed/,,1561,4/4/2020 17:26,79
+University of Oxford resumes vaccine trial,https://www.reddit.com/r/COVID19/comments/irc7qx/university_of_oxford_resumes_vaccine_trial/,,1538,9/12/2020 13:02,80
+"Universal Masking is Urgent in the COVID-19 Pandemic:SEIR and Agent Based Models, Empirical Validation,Policy Recommendations",https://www.reddit.com/r/COVID19/comments/ggznyu/universal_masking_is_urgent_in_the_covid19/,,1525,5/10/2020 11:14,81
+RLF-100 (aviptadil) trial shows rapid recovery in Covid-19 patients,https://www.reddit.com/r/COVID19/comments/i3ihe3/rlf100_aviptadil_trial_shows_rapid_recovery_in/,,1517,8/4/2020 12:32,82
+"MIT chemists have designed a peptide that can bind to part of the coronavirus spike protein, which they hope may prevent the virus from being able to enter cells.",https://www.reddit.com/r/COVID19/comments/fsspyv/mit_chemists_have_designed_a_peptide_that_can/,,1513,4/1/2020 4:35,83
+Melatonin Inhibits COVID-19-induced Cytokine Storm by Reversing Aerobic Glycolysis in Immune Cells: A Mechanistic Analysis,https://www.reddit.com/r/COVID19/comments/ht8nce/melatonin_inhibits_covid19induced_cytokine_storm/,,1505,7/18/2020 2:01,84
+FDA issues an Emergency Use Authorization (EUA) for remdesivir the treatment of hospitalized COVID-19 patients,https://www.reddit.com/r/COVID19/comments/gbptz4/fda_issues_an_emergency_use_authorization_eua_for/,,1501,5/1/2020 20:35,85
+Danish vaccine against coronavirus passes tests in mice,https://www.reddit.com/r/COVID19/comments/h0uvp1/danish_vaccine_against_coronavirus_passes_tests/,,1496,6/11/2020 8:01,86
+"A Japanese paper on the recovery of two Covid19 patients, one in critical condition. Kaletra did not appear to improve symptoms. Patients began to recover after doctors began giving 400mg hydroxychloroquine daily (translation in comments)",https://www.reddit.com/r/COVID19/comments/fiqycq/a_japanese_paper_on_the_recovery_of_two_covid19/,,1480,3/14/2020 22:36,87
+WHO discontinues hydroxychloroquine and lopinavir/ritonavir treatment arms for COVID-19,https://www.reddit.com/r/COVID19/comments/hl83g6/who_discontinues_hydroxychloroquine_and/,,1477,7/4/2020 18:27,88
+Early Spread of COVID-19 Appears Far Greater Than Initially Reported,https://www.reddit.com/r/COVID19/comments/i8zicd/early_spread_of_covid19_appears_far_greater_than/,,1467,8/13/2020 13:02,89
+Frontline NYC doctors think COVID19 should be treated like hypoxemia (altitude sickness) and not like ARDS (respiratory disease). This means less use of ventilators.,https://www.reddit.com/r/COVID19/comments/fu4c36/frontline_nyc_doctors_think_covid19_should_be/,,1473,4/3/2020 8:03,90
+"SARS-Cov2 enables anaerobic bacteria (Prevotella, et al) to colonize the lungs disrupting homeostasis - symptoms (ARDS, septic shock, blood clots, arterial stroke) finds resonance, with key differences, in the ?€?forgotten disease?€? Lemierre Syndrome",https://www.reddit.com/r/COVID19/comments/ge7u6h/sarscov2_enables_anaerobic_bacteria_prevotella_et/,,1466,5/5/2020 22:37,91
+"Identification of an existing Japanese pancreatitis drug, Nafamostat, which is expected to prevent the transmission of new coronavirus infection (COVID-19)",https://www.reddit.com/r/COVID19/comments/fscxcq/identification_of_an_existing_japanese/,,1461,3/31/2020 13:29,92
+"Thanks to a petition, several major publishers have given the public free access to a total of 32,544 COVID-19 articles!",https://www.reddit.com/r/COVID19/comments/feofsy/thanks_to_a_petition_several_major_publishers/,,1454,3/7/2020 2:09,93
+New York clinical trial quietly tests heartburn remedy against coronavirus,https://www.reddit.com/r/COVID19/comments/g8nrqd/new_york_clinical_trial_quietly_tests_heartburn/,,1448,4/26/2020 22:17,94
+Successful Elimination of Covid-19 Transmission in New Zealand,https://www.reddit.com/r/COVID19/comments/i5hd6e/successful_elimination_of_covid19_transmission_in/,,1447,8/7/2020 16:51,95
+Stability of SARS-CoV-2 in different environmental conditions,https://www.reddit.com/r/COVID19/comments/fvoo4f/stability_of_sarscov2_in_different_environmental/,,1440,4/6/2020 0:25,96
+SARS-CoV-2 has been circulating in northern Italy since December 2019: evidence from environmental monitoring,https://www.reddit.com/r/COVID19/comments/hh0if5/sarscov2_has_been_circulating_in_northern_italy/,,1438,6/27/2020 20:09,97
+"Increase in delirium, rare brain inflammation and stroke linked to COVID-19",https://www.reddit.com/r/COVID19/comments/hnfv5k/increase_in_delirium_rare_brain_inflammation_and/,,1426,7/8/2020 12:06,98
+A single-dose intranasal ChAd vaccine protects upper and lower respiratory tracts against SARS-CoV-2,https://www.reddit.com/r/COVID19/comments/icoq73/a_singledose_intranasal_chad_vaccine_protects/,,1425,8/19/2020 14:31,99
